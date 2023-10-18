@@ -1,5 +1,5 @@
 # MOPSO-MATLAB
-Multi-Objective Particle Swarm Optimization (PSO) within MATLAB Language Programming
+Multi-Objective Particle Swarm Optimization (MOPSO) within MATLAB Language Programming
 
 This is a metaheuristic algorithm for optimizing multi-objective problems
 
