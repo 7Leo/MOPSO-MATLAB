@@ -1,7 +1,7 @@
 # MOPSO-MATLAB
 Multi-Objective Particle Swarm Optimization (PSO) with MATLAB Language Programming
 
-This is a metaheuristic algorithm for optimizing multi objective problems.
+This is a metaheuristic algorithm for optimizing multi-objective problems.
 
 ## How to Run
 1. Change `cost_function.m` file according your objective functions.
